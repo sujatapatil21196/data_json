@@ -1,0 +1,211 @@
+{
+    "profile": {
+        "userId": 1,
+        "firstName": "Sujata",
+        "lastName": "Patil",
+        "PhoneNumber": 9834628613,
+        "emailAddress": "sujataspatil2711@gmail.com"
+    },
+    "login": {
+        "username": "Sujata",
+        "password": "Sujata@12345"
+    },
+    "deal of the day": [
+        {
+            "name": "kurtas",
+            "detail": "30-50% off",
+            "price": "899",
+            "image": "https://i.ibb.co/RhNwNXc/kurta.jpg"
+        },
+        {
+            "name": "dresses",
+            "detail": "40-50% off",
+            "price": "999",
+            "image": "https://i.ibb.co/bdjpBZH/dress.jpg"
+        },
+        {
+            "name": "flats & heels",
+            "detail": "20-30% off",
+            "price": "899",
+            "image": "https://i.ibb.co/sgPfWGW/heels2.jpg"
+        },
+        {
+            "name": "watches",
+            "detail": "10-20% off",
+            "price": "699",
+            "image": "https://i.ibb.co/3CSWDzF/watches.jpg"
+        },
+        {
+            "name": "bags",
+            "detail": "30-40% off",
+            "price": "599",
+            "image": "https://i.ibb.co/99bx9Dz/bags.jpg"
+        },
+        {
+            "name": "glasses",
+            "detail": "10-30% off",
+            "price": "399",
+            "image": "https://i.ibb.co/fHm0nFk/glasses.jpg"
+        }
+    ],
+    "top picks": [
+        {
+            "name": "kurtas",
+            "detail": "30-50% off",
+            "price": "799",
+            "image": "https://i.ibb.co/2WvbKFD/kurta2.jpg"
+        },
+        {
+            "name": "dresses",
+            "detail": "40-50% off",
+            "price": "999",
+            "image": "https://i.ibb.co/GWr1yFP/dress2.jpg"
+        },
+        {
+            "name": "flats & heels",
+            "detail": "5-10% off",
+            "price": "899",
+            "image": "https://i.ibb.co/t3r9LrG/flats.jpg"
+        },
+        {
+            "name": "watches",
+            "detail": "10-50% off",
+            "price": "699",
+            "image": "https://i.ibb.co/60zLqdR/watches2.jpg"
+        }
+    ],
+    "categories to product": [
+        {
+            "name": "kurtas set",
+            "image": "https://i.ibb.co/tqhM4Ds/kurta3.jpg"
+        },
+        {
+            "name": "handbags",
+            "image": "https://i.ibb.co/KKkgLnX/handbags.jpg"
+        },
+        {
+            "name": "T-shirt",
+            "image": "https://i.ibb.co/sbc5jmw/tshirt.jpg"
+        },
+        {
+            "name": "sarees",
+            "image": "https://i.ibb.co/JQZKFcg/sarees.jpg"
+        },
+        {
+            "name": "shirts",
+            "image": "https://i.ibb.co/Tc8cyFJ/shirt.jpg"
+        },
+        {
+            "name": "jewellery",
+            "image": "https://i.ibb.co/NtJwvrp/jewellery.jpg"
+        },
+        {
+            "name": "beauty",
+            "image": "https://i.ibb.co/v4Q5qTG/beauty.jpg"
+        },
+        {
+            "name": "shoes",
+            "image": "https://i.ibb.co/QFLjLPv/shoes.jpg"
+        },
+        {
+            "name": "heels & flats",
+            "image": "https://i.ibb.co/sgPfWGW/heels2.jpg"
+        },
+        {
+            "name": "tops",
+            "image": "https://i.ibb.co/2N1pYxJ/tops.jpg"
+        },
+        {
+            "name": "watches",
+            "image": "https://i.ibb.co/3CSWDzF/watches.jpg"
+        },
+        {
+            "name": "geans",
+            "image": "https://i.ibb.co/PTwCzBG/jeans.jpg"
+        },
+        {
+            "name": "indian wear",
+            "image": "https://i.ibb.co/xLmv9ZL/indian-wear.jpg"
+        },
+        {
+            "name": "western wear",
+            "image": "https://i.ibb.co/wpcffgr/western-wear.jpg"
+        },
+        {
+            "name": "sports wear",
+            "image": "https://i.ibb.co/1sYD357/sports-wear.jpg"
+        },
+        {
+            "name": "inner wear",
+            "image": "https://i.ibb.co/p0ht6y0/inner-wear.jpg"
+        },
+        {
+            "name": "kids wear",
+            "image": "https://i.ibb.co/3fDn3WV/kids-wear.jpg"
+        },
+        {
+            "name": "home furnishing",
+            "image": "https://i.ibb.co/KzMhQ99/home-furnishing.jpg"
+        }
+    ],
+    "categories to brands": [
+        {
+            "name": "max",
+            "image": "https://i.ibb.co/5vVWNz2/max.png"
+        },
+        {
+            "name": "Levi's",
+            "image": "https://i.ibb.co/5Ly23wg/levis.png"
+        },
+        {
+            "name": "H & M",
+            "image": "https://i.ibb.co/j8N76dd/hm.jpg"
+        },
+        {
+            "name": "Metro brands",
+            "image": "https://i.ibb.co/x8RrjDP/metro.jpg"
+        },
+        {
+            "name": "Nike",
+            "image": "https://i.ibb.co/SQvW833/nike.png"
+        },
+        {
+            "name": "biba",
+            "image": "https://i.ibb.co/3MpTrHx/biba.png"
+        }
+    ],
+    "payment options": [
+        {
+            "online option": [
+                {
+                    "name": "Google pay"
+                },
+                {
+                    "name": "UPI"
+                }
+            ]
+        },
+        {
+            "paymentMethodData": [
+                {
+                    "type": "CARD",
+                    "description": "Visa****1234",
+                    "info": {
+                        "cardNetwork": "VISA",
+                        "cardDetails": "1234"
+                    }
+                }
+            ]
+        }
+    ],
+    "address":[
+        {
+            "street":"New Railway Line 123",
+            "number":"street no.5",
+            "city":"Ahmedabad",
+            "country":"India",
+            "zipcode":"342121"
+        }
+
+    ]
+}
